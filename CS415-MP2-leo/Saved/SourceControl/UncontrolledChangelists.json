@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Elio/Desktop/415/CS415-MP2/CS415-MP2-main/Content/LearningKit_Games/Blueprints/Mortar/Mortar.uasset",
+				"C:/Users/Elio/Desktop/415/CS415-MP2/CS415-MP2-main/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/Elio/Desktop/415/CS415-MP2/CS415-MP2-main/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/Elio/Desktop/415/CS415-MP2/CS415-MP2-main/Content/LearningKit_Games/UI/HUD.uasset",
+				"C:/Users/Elio/Desktop/415/CS415-MP2/CS415-MP2-main/Content/LearningKit_Games/UI/WBP_Win.uasset",
+				"C:/Users/Elio/Desktop/ELIO/CS415-MP2-main/CS415-MP2-main/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/Elio/Desktop/ELIO/CS415-MP2-main/CS415-MP2-main/Content/LearningKit_Games/Blueprints/Suicider/Suicider.uasset",
+				"C:/Users/Elio/Desktop/ELIO/CS415-MP2-main/CS415-MP2-main/Content/LearningKit_Games/Blueprints/Mortar/Mortar.uasset",
+				"C:/Users/Elio/Desktop/ELIO/CS415-MP2-main/CS415-MP2-main/Content/LearningKit_Games/Blueprints/Pursuer/Pursuer.uasset",
+				"C:/Users/Elio/Desktop/ELIO/CS415-MP2-main/CS415-MP2-main/Content/LearningKit_Games/Blueprints/BP_powerup.uasset",
+				"C:/Users/Elio/Desktop/ELIO/CS415-MP2-main/CS415-MP2-main/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/Elio/Desktop/ELIO/CS415-MP2-main/CS415-MP2-main/Content/LearningKit_Games/Blueprints/BP_Bullet.uasset",
+				"C:/Users/Elio/Desktop/ELIO/CS415-MP2-main/CS415-MP2-main/Content/LearningKit_Games/UI/HUD.uasset",
+				"C:/Users/Elio/Desktop/ELIO/CS415-MP2-main/CS415-MP2-main/Content/LearningKit_Games/Blueprints/BP_Coin.uasset"
+			]
+		}
+	]
+}
